@@ -10,4 +10,4 @@ PTransE, TransH, TransR : https://github.com/thunlp/KB2E
 
 2. The biomedical data sets are available in the below link :
 
-Our biomedical data : https://github.com/choiwj/translation_model"
+Our biomedical data : https://github.com/choiwj/translation_model
